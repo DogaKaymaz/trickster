@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: F 1 - Duel Coner
+  m_EditorClassIdentifier: 
+  storyText: 'You said, "I, Jura, challenge you to a duel."
+
+
+    "You have no chance
+    against me!" He said with a big confidence.
+
+
+    You gave him his own poison
+    and asked, "You think so?"
+
+
+    Your question made him angry and he jumped on
+    you. While he was strangling you, you stabbed him on his back. He staggered back,
+    groaning in pain. You swooped down on him with a swift movement. He managed to
+    break your arm before you plunged your dagger into his heart.
+
+
+    You heard
+    the child''s applause. What are you going to do?
+
+
+    1) Don''t care the child.
+
+
+    2)
+    "Interesting one. Spill it out child. What is your deal?"'
+  nextStates:
+  - {fileID: 11400000, guid: b0ffb78c2dd623d449262db0cda421df, type: 2}
+  - {fileID: 11400000, guid: b0ffb78c2dd623d449262db0cda421df, type: 2}

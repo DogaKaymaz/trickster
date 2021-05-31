@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: K1 - Abondon Him
+  m_EditorClassIdentifier: 
+  storyText: "You said, \"I can't help you child,\" and turned your back on him.
+    You didn't give him a chance to catch you.\r\n\nIt would be hard to take responsibility
+    for someone weak in Finedel. Also you didn't really care for someone else in
+    your life before. This time would not be an exception. \r\n\nYou were all alone
+    again and walked away. You got into the night.\r\n\nDo you want to play again?
+    \r\n\n1) Yes. \r\n\n2) No."
+  nextStates:
+  - {fileID: 11400000, guid: f62c85a08f614eb44879055ea28f1978, type: 2}
+  - {fileID: 11400000, guid: a222810c786599c4daf35c59f9e59d8d, type: 2}

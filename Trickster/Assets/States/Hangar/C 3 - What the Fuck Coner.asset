@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: C 3 - What the Fuck Coner
+  m_EditorClassIdentifier: 
+  storyText: 'He called you, "Coward." And took his wallet from Drod''s body. You
+    saw him walk away. You turned your head to the child.
+
+
+    The child shouted,
+    "THERE!"
+
+
+    It was too late. Coner broke your arm. You stabbed him as reflex.
+    He fell down while blood was running from his mouth.
+
+
+    You said, "You shouldn''t
+    have tried me," with a cold voice. Then you realized the child who has hugged
+    you.
+
+
+    What are you going to say?
+
+
+    1) "Begone."
+
+
+    2) "What is the
+    deal with you?"'
+  nextStates:
+  - {fileID: 11400000, guid: b0ffb78c2dd623d449262db0cda421df, type: 2}
+  - {fileID: 11400000, guid: b0ffb78c2dd623d449262db0cda421df, type: 2}

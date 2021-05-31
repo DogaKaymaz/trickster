@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: A 8 - Who Owns You
+  m_EditorClassIdentifier: 
+  storyText: 'Child said, "I''m on my own." He was looking shy as hell.
+
+
+    "You
+    think I am stupid?" You asked again, "Who is behind you?"
+
+
+    "It is no one,"
+    he insisted.
+
+
+    You grabbed his chin. "There is someone who is protecting
+    you and you will tell me who. A fragile child as you, alone in Finedel, huh?
+    They would eat you alive and then fuck the rest of your pieces."
+
+
+    The child
+    whispered, "Wouldn''t it be more logical if they first fuck and then ate?"
+
+    
+
+    What
+    are you going to do?
+
+
+    1) Laugh.
+
+
+    2) Get angry.'
+  nextStates:
+  - {fileID: 11400000, guid: 0c6d4005683fc1a498c29ce5ac2857e3, type: 2}
+  - {fileID: 11400000, guid: 052a861d1fdeff240b5171d082a6b75c, type: 2}

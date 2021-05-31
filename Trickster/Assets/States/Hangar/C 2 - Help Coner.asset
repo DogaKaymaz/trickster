@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: C 2 - Help Coner
+  m_EditorClassIdentifier: 
+  storyText: "You grabbed Drod's shoulder and pulled him back.\r\n\nDrod roared,
+    \"He stole my wallet!\"\r\n\nYou replied him calmly, \"It is normal here. You
+    should have kept your wallet. We are in Finedel. Stealing, killing, black market
+    and even organ trade. It is common and normal.\"\r\n\nDrod laughed mockingliy,
+    \"You think I don't know these?\" He squeezed his hand on Coner's throat. \"It
+    is also normal kill one, when they stole your wallet.\"\r\nYou pulled him to
+    yourself, this time wild and put your dagger on Drod's throat. \"Chill Drod,
+    nobody is dying tonight.\"\r\n\n\"You think so?\" You couldn't prevent Coner's
+    move and he killed Drod by stabbing in the heart.\r\n\n\"Do you also want to
+    die?\" He asked growling. \r\n\nWhat are you going to do?\r\n\n1) \"What the
+    fuck are you doing Coner?\"\r\n\n2) Duel Coner."
+  nextStates:
+  - {fileID: 11400000, guid: 48dd13f4f09d2bc41abf5f993df70ba2, type: 2}
+  - {fileID: 11400000, guid: dadfb8139d63cff46abbbfa2ba961ac9, type: 2}

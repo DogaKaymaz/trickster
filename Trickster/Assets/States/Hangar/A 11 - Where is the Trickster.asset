@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: A 11 - Where is the Trickster
+  m_EditorClassIdentifier: 
+  storyText: 'Child said, "He disappeared. I think he went to his hometown, Vhot."
+
+
+    You
+    asked with an unsure manner, "He left you?"
+
+
+    He opposed, "No, it is not
+    something like that. There was a Trick Hunter who was following us. He said,
+    he need something to stop him and when I woke up, I was here, in Finedel."
+
+
+    You
+    couldn''t believe what you heard. "He left you in Finedel? Not in Praser which
+    is full of that dumbass hermits but in Finedel? A place full of murderers."
+
+
+    What
+    you are going to say?
+
+
+    1) "He must really hate you."
+
+
+    2) "And what
+    do you expect from me?"'
+  nextStates:
+  - {fileID: 11400000, guid: 942540e751b844b43854fad01d9cc22e, type: 2}
+  - {fileID: 11400000, guid: 942540e751b844b43854fad01d9cc22e, type: 2}

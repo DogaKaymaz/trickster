@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: A 10 - The Trickster
+  m_EditorClassIdentifier: 
+  storyText: 'Child said, "It is a Trickster."
+
+
+    You gulped. A Trickster? You
+    clenched your fists. It was bad. Nobody would want to come across to a Trickster.
+
+
+    They
+    were the definition of mystery. Nobody knew whether they have really powers or
+    what they''re doing is just an illusion. Since they live in Vhot, it was not
+    common to see one of them in Finedel or another places. Even the wild people
+    here wouldn''t want to face with them.
+
+
+    You repeated, "It is a Trickster."
+
+
+    The
+    child nodded. "Will you help me now?"
+
+
+    What are you going to say?
+
+
+    1)
+    "Why would I? You are with a Trickster."
+
+
+    2) "And where is this Trickster?"'
+  nextStates:
+  - {fileID: 11400000, guid: fa19d1a830b4d144a9bc70415ed9c2e0, type: 2}
+  - {fileID: 11400000, guid: fa19d1a830b4d144a9bc70415ed9c2e0, type: 2}

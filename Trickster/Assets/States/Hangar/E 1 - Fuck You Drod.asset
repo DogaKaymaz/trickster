@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: E 1 - Fuck You Drod
+  m_EditorClassIdentifier: 
+  storyText: 'You made Drod angry. He threw his knife to you. You caught it in the
+    air and smiled. "It takes more to kill me."
+
+
+    Drod rolled his eyes, "You
+    know what? Fuck you."
+
+
+    What are you going to do?
+
+
+    1) "With pleasure."
+
+
+    2)
+    Respond to him.'
+  nextStates:
+  - {fileID: 11400000, guid: f127bd62e18ff9d49bcc5f9ddfb94b1c, type: 2}
+  - {fileID: 11400000, guid: 696eaa4eeb68ed247a594b71e702a881, type: 2}

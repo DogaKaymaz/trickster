@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: A 7 - Birthday
+  m_EditorClassIdentifier: 
+  storyText: 'Child answered, "Tomorrow."
+
+
+    You shook your head. "There must
+    be someone who is looking after you. Who is it?"'
+  nextStates:
+  - {fileID: 11400000, guid: ceccfe9c79fd52b44ba71d20b45efd7d, type: 2}
+  - {fileID: 11400000, guid: ceccfe9c79fd52b44ba71d20b45efd7d, type: 2}

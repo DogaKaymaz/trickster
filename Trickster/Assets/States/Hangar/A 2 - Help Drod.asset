@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: A 2 - Help Drod
+  m_EditorClassIdentifier: 
+  storyText: 'You went outside to look for Coner. You saw him torturing a child.
+
+
+    You
+    said, "Drod is looking for you."
+
+
+    Coner said, "I am busy. Just found my
+    dinner." He licked his lips.
+
+
+    You warned him, "He wants his wallet." He
+    didn''t listen you and took out his knife to kill the child. He probably wants
+    loot him and sell him later.
+
+
+
+    What are you going to do?
+
+
+    1) Save the
+    child.
+
+
+    2) Don''t care about the child.'
+  nextStates:
+  - {fileID: 11400000, guid: 47bdc0170d1df5b4c8199bf3c5b49242, type: 2}
+  - {fileID: 11400000, guid: 3ee8b1709081c8a4cbe3820a4e79f625, type: 2}

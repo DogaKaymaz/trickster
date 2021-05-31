@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: A 13 - Help the Child
+  m_EditorClassIdentifier: 
+  storyText: 'You said, "Come with me."
+
+
+    Child got excited. "You are gonna help
+    me?"
+
+
+    "Just shut up." You knew it would be hard to take care of this child.
+    Bu still... You didn''t want to left him alone in a zone like that. Finedel people
+    were monsters. It was hard for you to grew up here. All things you went through...
+    You could protect this child from those disgusting things you endured with.
+
+
+    "My
+    names is Uwan," the child said. "And what was your name?"
+
+
+    You replied,
+    "Jura."
+
+
+    You were thinking about all the hardships wait for you and then
+    child held your hand. You walked through the streets of Finedel, together.'
+  nextStates:
+  - {fileID: 11400000, guid: 9b3e38671a5dc004abd54301af3e66a8, type: 2}
+  - {fileID: 11400000, guid: 9b3e38671a5dc004abd54301af3e66a8, type: 2}

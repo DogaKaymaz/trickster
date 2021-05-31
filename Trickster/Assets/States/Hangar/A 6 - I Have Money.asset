@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: A 6 - I Have Money
+  m_EditorClassIdentifier: 
+  storyText: "Child said, \"I have money,\" on tiptoe. He was looking like a cute
+    puppy. He had big yellowish eyes and messy brown hair falling on his forehead.
+    \r\n\nYou had a hard time taking him seriously. \"How old are you?\"\r\n\n\"Almost
+    twelve.\" You are five years older than him.\r\n\r\nWhat are you going to say?
+    \r\n\n1) \"When is your birthday?\"\r\n\n2) \"Who owns you?\""
+  nextStates:
+  - {fileID: 11400000, guid: 6558d313edfd00849abe55f08be415ae, type: 2}
+  - {fileID: 11400000, guid: ceccfe9c79fd52b44ba71d20b45efd7d, type: 2}

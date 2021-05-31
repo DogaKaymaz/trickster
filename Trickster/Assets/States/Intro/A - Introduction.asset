@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: A - Introduction
+  m_EditorClassIdentifier: 
+  storyText: "Welcome to Trickster.\n\n-> Choose carefully.\n\n-> Press '1' to choose
+    first option, '2' to choose second option.\n\n-> Press 'q' to quit the game and
+    return to this page. \n\n-> You can click 'MENU' to return to the menu page.\n\n->
+    You can jump over optionless scenes either pressing '1' or '2',  it doesn't effect
+    the game."
+  nextStates:
+  - {fileID: 11400000, guid: f62c85a08f614eb44879055ea28f1978, type: 2}
+  - {fileID: 11400000, guid: f62c85a08f614eb44879055ea28f1978, type: 2}

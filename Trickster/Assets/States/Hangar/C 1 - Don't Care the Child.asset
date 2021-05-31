@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: C 1 - Don't Care the Child
+  m_EditorClassIdentifier: 
+  storyText: "You didn't care for the child. While Coner was about to kill the child,
+    Drod appeared and punched Coner.\r\n\nConer shouted, \"What the fuck are you
+    doing?\" He released the kid and punched Drod back.\r\n\nDrod grabbed Coner's
+    throat and hit his back against the wall. Coner was struggling but couldn't escape.
+    \r\n\r\nDrod is strangling Coner to death. What are you going to do?\r\n\n1)
+    Help Coner.\r\n\n2) Don't interfere."
+  nextStates:
+  - {fileID: 11400000, guid: 6a229be59466ccc4082c9f37a3841e94, type: 2}
+  - {fileID: 11400000, guid: c2ea0620188b05442bb2867961544d1c, type: 2}

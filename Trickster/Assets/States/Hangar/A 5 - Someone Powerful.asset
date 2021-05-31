@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6a122943791974cb937d6c755d4157, type: 3}
+  m_Name: A 5 - Someone Powerful
+  m_EditorClassIdentifier: 
+  storyText: 'Child shook his head. "I want someone powerful by my side."
+
+
+    You
+    laughed wheezing and asked, "Who doesn''t?"
+
+
+    He insisted, "I can pay you."
+
+
+    What
+    are you going to say?
+
+
+    1) "And how are you gonna do that?"
+
+
+    2) "You
+    will pay me? Know you place, little shit."'
+  nextStates:
+  - {fileID: 11400000, guid: 608dc08b39fce9e428adfd604ea4e9ad, type: 2}
+  - {fileID: 11400000, guid: 608dc08b39fce9e428adfd604ea4e9ad, type: 2}
